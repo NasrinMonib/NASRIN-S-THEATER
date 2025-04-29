@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(36, 35, 39);
+    font-family:"pacifico ",cursive;
+    color: rgb(149, 79, 166);
+    text-align: center;
+}
+.theater {
+    padding: 30px;
+}
+
+h1 { 
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 2.6em;
+color: rgb(65, 182, 224);
+text-shadow: 0 0 8px rgb(71, 3, 153);
+    margin-bottom: 30px;
+    text-decoration: underline;
+    font-style: italic;
+}
+p{
+    color: #80bfff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1,8em;
+    text-shadow: rgb(140, 55, 236);
+}
+h2{
+    color: gold;
+}
+.marquee {
+    color: rgb(220, 184, 131);
+    font-size: 1.2em;
+    margin-bottom:20px;
+    font-weight: bold;
+}
+.sceen{
+    border: 8px solid #66b3ff;
+    box-shadow: 0  0 25px #99ccff, 0 0 50px #80bfff;
+    width: 80%;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: #f0faff;
+    border-radius: 20px;
+}
+video{
+    width: 200px;
+border-radius: 15px;
+box-shadow: 0 10px 15px rgba( blue,skyblue,gray);
+background-image: conic-gradient(blue,gray,skyblue,black);
+background-size: 220px;
+}
+controls{
+    margin-top: 26px;
+}
+button{
+    background :-moz-linear-gradient(to right,rgb(26, 168, 112),rgb(132, 165, 243));
+    border:-none;
+    padding: 12px,25px;
+    margin: 11px;
+    font-size: 1.3em;
+    font-weight: bold;
+    border-radius: 30px;
+    color: rgb(31, 3, 42);
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(4, 223, 220, 0.3);
+    transition: all 0.3s ease;
+}
+button:hover {
+    background: -o-linear-gradient(to right,lightskyblue,light rgb(214, 172, 37));
+    box-shadow:  0 6px 20px rgba(red, green, blue);
+    transform: scale(1.05);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
